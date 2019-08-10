@@ -7,5 +7,5 @@ jobs: # a collection of steps
 
     steps: # a collection of executable commands
       - checkout
-      - run: mvn clean compile
+      - run: mvn clean compilse
       
